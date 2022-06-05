@@ -1,10 +1,12 @@
 # SSIS Robotics
 
-## Hi there 👋
+**Robotics projects since 2016 at Saigon South International School**
 
-🙋‍♀️ Robotics projects since 2016 at Saigon South International School
-👩‍💻 Join our organization to view centralized your projects
-🌈 Contribution guidelines - how can the community get involved? Will be updated soon.
+## 2022
+
+- [magnet-spinny-thing](https://github.com/ssis-robotics/magnet-spinny-thing) Measure the RPM with a magnetic switch near the spinning gear. By [@Vlak23](https://github.com/Vlak23)
+- [rvr](https://github.com/ssis-robotics/rvr) Control the Sphero RVR over the serial interface, using Circuitpython. Written by [@emwdx](https://github.com/emwdx).
+
 
 <!--
 
