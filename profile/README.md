@@ -8,6 +8,9 @@
 - [Library Robot](https://github.com/ssis-robotics/MakeBlock-UltraSonicSensor) Contribution to the SAMK competition 2022. Made it to the final round! By [@millyng](https://github.com/millyng), [@lolmrdabbydab](https://github.com/lolmrdabbydab) and [@ple22](https://github.com/ple22).
 - [rvr](https://github.com/ssis-robotics/rvr) Control the Sphero RVR over the serial interface, using Circuitpython. Written by [@emwdx](https://github.com/emwdx).
 
+## 2020
+
+- [Team426Robot](https://github.com/ssis-robotics/Team426Robot) Robot for the 2019-2020 **Inifnite Recharge** challenge of the _First Robotics Competition_ FRC. By [@emwdx](https://github.com/emwdx), [@ZACTF426](https://github.com/ZACTF426), [@LeoNguyen22](https://github.com/LeoNguyen22) and [@NamVo230302](https://github.com/NamVo230302).
 
 <!--
 
