@@ -2,6 +2,11 @@
 
 **Robotics projects since 2016 at Saigon South International School**
 
+## 2023
+
+- [reactivate23](to_be_determined) The software on the Windows machine was lost, so we had to start from scratch to get a firmware image for the robotRIO and resurrect the FRC robot built by Team 426.
+- [reset23](https://github.com/ssis-robotics/reset23) In a simple hack we disconnected the brain of the Team 426 robot and controlled the CIM motors with the Talon SRX directly with PWM signals from our RC radio to drive an armchair for the art exhibition "RESET" on May 25th, 2023.
+
 ## 2022
 
 - [magnet-spinny-thing](https://github.com/ssis-robotics/magnet-spinny-thing) Measure the RPM with a magnetic switch near the spinning gear. By [@Vlak23](https://github.com/Vlak23).
