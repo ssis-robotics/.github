@@ -6,6 +6,7 @@
 
 - [reactivate23](to_be_determined) The software on the Windows machine was lost, so we had to start from scratch to get a firmware image for the robotRIO and resurrect the FRC robot built by Team 426.
 - [reset23](https://github.com/ssis-robotics/reset23) In a simple hack we disconnected the brain of the Team 426 robot and controlled the CIM motors with the Talon SRX directly with PWM signals from our RC radio to drive an armchair for the art exhibition "RESET" on May 25th, 2023.
+- [VRC-SPIN-UP](https://github.com/ssis-robotics/VRC-SPIN-UP) Building a VEX robot for middle school as team 76209M. And being selected to represent Vietnam at VEX Worlds in Dallas April 2023! By [@flooof](https://github.com/flooof).
 
 ## 2022
 
