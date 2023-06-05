@@ -9,7 +9,7 @@
 - [ssis.bit](https://github.com/ssis-robotics/ssis.bit) AIO microcomputer solution with CircuitPython, display and battery for SSIS students. Got its own [PID in 2023](https://pid.codes/1209/2023/) for the T-Display!
 - [VRC-SPIN-UP](https://github.com/ssis-robotics/VRC-SPIN-UP) Building a VEX robot for middle school as team 76209M. And being selected to represent Vietnam at VEX Worlds in Dallas April 2023! By [@flooof](https://github.com/flooof).
 
-![Team in April 2023](team2023.jpg)
+<img src="profile/team2023.jpg" align="center" width="80%">
 
 
 ## 2022
@@ -27,4 +27,4 @@
 
 <img src="https://raw.githubusercontent.com/ssis-robotics/Team426Robot/master/docs/zombie.jpg" width="23%"> <img src="https://raw.githubusercontent.com/ssis-robotics/reactivate23/main/docs/2020-08-26_club_expo.jpg" width="44%"> <img src="https://raw.githubusercontent.com/ssis-robotics/Team426Robot/master/logo2020.png" width="28%">
 
-![Team in May 2021](team2021.jpg)
+<img src="profile/team2021.jpg" align="center" width="80%">
